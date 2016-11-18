@@ -1,0 +1,18 @@
+"*":
+  core:
+    themes: [
+      "seti-ui"
+      "monokai-seti"
+    ]
+  editor:
+    fontSize: 13
+    invisibles: {}
+    showInvisibles: true
+  "exception-reporting":
+    userId: "7812411b-ba71-a2d7-77b9-83a453f6273d"
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false
